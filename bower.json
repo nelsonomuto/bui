@@ -4,38 +4,18 @@
   "main": "./dist/bui.js",
   "keywords": [
     "angular",
-    "angular-validation",
+    "javascript",
     "bui",
-    "angular-validator",
-    "validation",
-    "angularjs",
-    "directive",
-    "javascript",
-    "nelson",
+    "nelson omuto",
     "omuto",
-    "angular",
-    "validation",
-    "directive",
-    "angularjs",
-    "validation",
-    "directive",
-    "validation",
-    "directive",
-    "angular",
-    "validation",
-    "angularjs",
-    "validation",
-    "javascript",
-    "input",
-    "validation",
-    "multiple",
-    "input",
-    "validation",
-    "order",
-    "of",
-    "priority",
-    "validation"
+    "beautiful",
+    "beautiful user interface",
+    "library",
+    "collection",
+    "plugin",
+    "framework"
   ],
+
   "ignore": [
     "source",
     "spec",
@@ -54,6 +34,7 @@
     "test",
     "tests"
   ],
+
   "dependencies": {
     "angular": "~1.2.24",
     "json3": "~3.3.2",
@@ -74,6 +55,6 @@
   "authors": [
     "Nelson Omuto <nelsonomuto@gmail.com>"
   ],
-  "description": "AngularJS custom validation directives",
+  "description": "bui is a collection of libraries, plugins, wrappers, etc to make UI development more productive.",
   "license": "MIT"
 }
