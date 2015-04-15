@@ -1,5 +1,5 @@
 {
-  "name": "bui",
+  "name": "b-ui",
   "description": "bui is a collection of libraries, plugins, wrappers, etc to make UI development more productive.",
   "version": "0.0.1",
   "dependencies": {
